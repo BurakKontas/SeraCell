@@ -1,0 +1,4 @@
+Todo:
+    + Bottom Sheet düzenlenecek popuplar için manuel açma olmayacak açılırken otomatik animasyonla açılacak
+    - Kontrolcü ekleme ekranı düzenlenecek
+    + Add controller redux ile yapılabilir
